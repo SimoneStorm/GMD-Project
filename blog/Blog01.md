@@ -22,7 +22,6 @@ version: "0.1"
 | Player Experience and Game POV         | The game will be in a **first-person perspective**. The player will explore a magical world filled with mystical creatures and ancient ruins while uncovering the truth behind their uploaded consciousness.                  |
 | Visual and Audio Style | Magical and surreal — vibrant colors, glowing elements, and atmospheric sounds with soft magical chimes |
 | Game World Fiction | The player starts in a magical realm and will later progress to a glitched reality and a chaotic dystopia, representing different states of consciousness. |
-| Monetization | None (or could be a single-purchase premium model) |
 | Platform(s), Technology, and Scope (brief) | PC, 3D using Unity Editor, created with a focus on exploration, mystery, and puzzle-solving. |
 
 ---
