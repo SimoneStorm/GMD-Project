@@ -10,7 +10,7 @@ version: "0.1"
 | Field           | Description                   |
 |-----------------|-------------------------------|
 | Genre(s)        | Fantasy, Adventure, Psychological |
-| Platform(s)     | PC                             |
+| Platform(s)     | PC, Arcade                            |
 | Target Audience | 16+                           |
 | Overview        | A narrative-driven open-world adventure where the player explores different realities after having their consciousness uploaded into a virtual world. |
 
@@ -38,4 +38,4 @@ version: "0.1"
 ---
 
 ## First Iteration
-![Game Design Map]
+![Game Design Map](/blog/resources/Mindmap.png)
