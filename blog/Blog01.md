@@ -36,5 +36,5 @@ version: "0.1"
 
 ---
 
-## First Iteration
+## First Thoughts
 ![Game Design Map](/blog/resources/Mindmap.png)
